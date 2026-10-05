@@ -1,0 +1,8 @@
+{
+  "name": "Cavite Solarista V1 (OFFICIAL)",
+  "description": "Cavite Solarista - Renewable solar energy solutions, hybrid packages, and expert solar installation in Bacoor, Cavite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
